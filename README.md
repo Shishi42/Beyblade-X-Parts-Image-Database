@@ -1,1 +1,1 @@
-# Beyblade X image Database
+# Beyblade X image database
